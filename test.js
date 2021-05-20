@@ -1,5 +1,5 @@
 let x = 2;
 let y = 3;
 
-let moltiplicazione = 0
+let moltiplicazione = x*y
 console.log(moltiplicazione);
